@@ -11,6 +11,7 @@ The game is played by two individuals. First, we draw a board with a 3×3 square
 The interesting Python project will be build using the pygame library. Pygame is a great library that will allow us to create the window and draw images and shapes on the window. This way we will capture mouse coordinates and identify the block where we need to mark ‘X’ or ‘O’. Then we will check if the user wins the game or not.
 
 -------Steps to Build a Python Tic Tac Toe Game--------
+
 First, let’s check the steps to build Tic Tac Toe program in Python:
 
 Create the display window for our game.
@@ -19,6 +20,8 @@ Draw the status bar below the canvas to show which player’s turn is it and who
 When someone wins the game or the game is a draw then we reset the game.
 We need to run our game inside an infinite loop. It will continuously look for events and when a user presses the mouse button on the grid we will first get the X and Y coordinates of the mouse. Then we will check which square the user has clicked. Then we will draw the appropriate ‘X’ or ‘O’ image on the canvas. So that is basically what we will do in this Python project.
 
+![X](https://user-images.githubusercontent.com/79473081/120362389-a3413580-c328-11eb-9f94-6636ba3cb1cc.png)
+![O](https://user-images.githubusercontent.com/79473081/120362397-a6d4bc80-c328-11eb-922b-18017e2de92a.png)
 
 1. Initializing game components
 So let’s start by importing the pygame library and the time library because we will use the time.sleep() method to pause game at certain positions. Then we initialize all the global variables that we will use in our Tic Tac Toe game.
@@ -56,4 +59,5 @@ To start the game, we will call the game_opening() function. Then, we run an inf
 
 
 ---------------Summary------------------
+
 With this project in Python, we have successfully made the Tic Tac Toe game. We used the popular pygame library for rendering graphics on a display window. We learned how to capture events from the keyboard or mouse and trigger a function when the mouse button is pressed. This way we can calculate mouse position, draw X or O on the display and check if the player wins the game or not. I hope you enjoyed building the game.
