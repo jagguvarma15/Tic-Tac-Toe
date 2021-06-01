@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 2 Player GUI based Tic-Tac-Toe Game 
-![tictacopening](https://user-images.githubusercontent.com/79473081/120360756-bbb05080-c326-11eb-8953-c8d5a7e55b4d.png)
+![download](https://user-images.githubusercontent.com/79473081/120362786-15b21580-c329-11eb-9e87-dded7934644c.png)
+
 
 
 Tic Tac Toe is one of the most played games and is the best time killer game that you can play anywhere with just a pen and paper. If you don’t know how to play this game don’t worry let us first understand that.
