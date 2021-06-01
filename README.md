@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
 2 Player GUI based Tic-Tac-Toe Game 
+
 ![download](https://user-images.githubusercontent.com/79473081/120362786-15b21580-c329-11eb-9e87-dded7934644c.png)
 
 
